@@ -1,0 +1,126 @@
+.slick-prev {
+    top: 39% !important;
+    left: -10px !important;
+    z-index: 10 !important;
+    height: 48px !important;
+    width: 44px !important;
+    background: rgba(255, 255, 255, 0.297) !important;
+    border: 2px solid #d7d7d7 !important;
+}
+.owl-carousel-header-right .slick-list {
+    height: 144px !important;
+}
+.slick-prev:hover {
+    background: #eceaea !important;
+}
+.slick-next {
+    top: 39% !important;
+    right: -10px !important;
+    z-index: 10 !important;
+    height: 48px !important;
+    width: 44px !important;
+    background: rgba(255, 255, 255, 0.297) !important;
+    border: 2px solid #d7d7d7 !important;
+}
+.slick-next:hover {
+    background: #eceaea !important;
+}
+.slick-disabled {
+    display: none !important;
+}
+.slick-prev:before, .slick-next:before {
+    font-family: FontAwesome !important;
+    color: orange !important;
+    font-size: 32px !important;
+    font-weight: bold !important;
+}
+.section-share.section-specialty {
+    background: #f5f3f3;
+}
+.section-share.section-outstanding-doctor {
+    background: #f5f3f3;
+}
+.section-share.section-about {
+    border-top: 1px solid #e2dfdf;
+    border-bottom: 1px solid #e2dfdf;
+    height: 500px !important;
+}
+.section-share .section-body .section-customize .bg-image {
+    width: 92%;
+    height: 324px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #eee;
+}
+.section-share .section-body .section-customize .bg-image.section-outstanding-doctor {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+.section-bg {
+    background: #d7d8de;
+}
+.section-bg.active{
+    background: rgb(189 190 196);
+}
+.section-share {
+    height: 330px;
+}
+.section-share .section-container {
+    display: flex;
+    flex-direction: column;
+}
+.section-share .section-container .section-header {
+    border-bottom: 10px solid #0d6efd;
+    height: 60px;
+    margin-bottom: 20px;
+    padding-top: 16px;
+}
+.section-share .section-container .section-header .title-section {
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Brush Script MT', cursive;
+}
+.section-share .section-container .section-header .btn-section {
+    float: right;
+    border: none;
+    outline: none;
+    display: block;
+    background: #0d6efd;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 36px;
+    font-family:'Brush Script MT', cursive;
+    cursor: pointer;
+}
+.section-share .section-container .section-header .btn-section > a {
+    color: #f7d800;
+}
+.section-share .section-container .section-header .btn-section:hover {
+    
+    background: #f7d800;
+}
+.section-share .section-container .section-header .btn-section:hover a {
+    color: #fff !important;
+}
+
+/* Header: Đường ngăn cách */
+.jazzy_header {
+    border-top: 4px solid #0d6efd;
+}
+/* Slider */
+.banner-slider img {
+    width: 100.666667%;
+    height: 299px;
+}
+.category.mb-0 {
+    font-size: 18px;
+    font-family:'Brush Script MT', cursive;
+}
+.text-uppercase {
+    font-weight: 600;
+}
+.header-info {
+    background: rgb(189 190 196);
+}
